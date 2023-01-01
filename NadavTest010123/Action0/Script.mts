@@ -1,0 +1,9 @@
+﻿RunAction "openBrowserAndNavigate", oneIteration
+RunAction "register", oneIteration
+RunAction "login", oneIteration
+RunAction "accountsAdd", oneIteration
+RunAction "accountsTransfer", oneIteration
+RunAction "stocksAddWatch", oneIteration
+RunAction "stocksBuy", oneIteration
+RunAction "stocksSell", oneIteration
+RunAction "logout", oneIteration
